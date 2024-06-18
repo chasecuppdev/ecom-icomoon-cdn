@@ -1,13 +1,12 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@main/fonts/icomoon.eot?z66o2w');
-  src:  url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@main/fonts/icomoon.eot?z66o2w#iefix') format('embedded-opentype'),
-    url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@main/fonts/icomoon.ttf?z66o2w') format('truetype'),
-    url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@main/fonts/icomoon.woff?z66o2w') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@main/fonts/icomoon.svg?z66o2w#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
+    font-family: 'icomoon';
+    src:  url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@latest/fonts/icomoon.eot?z66o2w');
+    src:  url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@latest/fonts/icomoon.eot?z66o2w#iefix') format('embedded-opentype'),
+          url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@latest/fonts/icomoon.ttf?z66o2w') format('truetype'),
+          url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@latest/fonts/icomoon.woff?z66o2w') format('woff'),
+          url('https://cdn.jsdelivr.net/gh/chasecuppdev/ecom-icomoon-cdn@latest/fonts/icomoon.svg?z66o2w#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
